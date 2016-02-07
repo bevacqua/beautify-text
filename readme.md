@@ -1,6 +1,6 @@
 # beautify-text [![Build Status](https://travis-ci.org/bevacqua/beautify-text.svg?branch=master)](https://travis-ci.org/bevacqua/beautify-text)
 
-> Automated typographhic quotation and punctuation marks
+> Automated typographic quotation and punctuation marks
 
 ## install
 
@@ -10,7 +10,7 @@ $ npm install --save beautify-text
 
 ## features
 
-Prettifies multiple typographic marks, some cases are outlined below.
+Prettifies several typographic marks, some cases are outlined below.
 
 - Single and double quotes
 - Apostrophes
