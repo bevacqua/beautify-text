@@ -22,7 +22,7 @@ Prettifies several typographic marks, some cases are outlined below.
 ## `beautifyText(text)`
 
 ```js
-beautifyText('a --- "b (tm) c"'));
+beautifyText('a --- "b (tm) c"');
 // -> 'a \u2014 “b ™ c”'
 ```
 
